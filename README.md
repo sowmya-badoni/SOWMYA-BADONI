@@ -2,8 +2,7 @@
 
 I'm a B.Tech student in Artificial Intelligence and Data Science, on a mission to turn curiosity into real-world impact using data and machine learning.
 
-Right now, I’m learning by doing — one project at a time. My first step? Building an actual ML-powered web app from scratch (not just notebooks!). It's called [Student Performance Predictor](https://github.com/sowmya-badoni/student-performance-predictor) — and I made it using Streamlit, scikit-learn, and a lot of trial and error.
-
+Right now, I’m learning by doing — one project at a time.
 ## 🚀 What I’m up to:
 - 💡 Exploring data science and applied ML
 - 🛠️ Getting better at version control and deployment (GitHub, Streamlit, etc.)
